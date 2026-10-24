@@ -1,0 +1,18 @@
+{
+  "id": "be8cc4ed-22ba-52a4-8e76-1a295d2d81f3",
+  "project_id": "95409b81-f908-4c40-ad34-1cb096794593",
+  "scope": 1,
+  "kind": "design",
+  "title": "詳細設計",
+  "role": "design",
+  "state": "planned",
+  "depends_on": [
+    "65025c96-8918-5612-8bf3-7b962f79f2b1"
+  ],
+  "artifacts": [],
+  "pr": null,
+  "issue": null,
+  "template_id": "design",
+  "owner": null,
+  "run_id": null
+}
