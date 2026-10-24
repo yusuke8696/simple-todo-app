@@ -1,0 +1,18 @@
+{
+  "id": "c1e39754-a60d-59a1-a473-1a129d56acbc",
+  "project_id": "95409b81-f908-4c40-ad34-1cb096794593",
+  "scope": 1,
+  "kind": "implementation",
+  "title": "実装",
+  "role": "coding",
+  "state": "planned",
+  "depends_on": [
+    "be8cc4ed-22ba-52a4-8e76-1a295d2d81f3"
+  ],
+  "artifacts": [],
+  "pr": null,
+  "issue": null,
+  "template_id": "implementation",
+  "owner": null,
+  "run_id": null
+}
