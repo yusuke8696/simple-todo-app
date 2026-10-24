@@ -1,0 +1,12 @@
+{
+  "name": "個人用ToDo管理アプリ",
+  "intent": "個人用ToDo管理アプリ",
+  "repo": "yusuke8696/simple-todo-app",
+  "workflow": "waterfall",
+  "base_branch": "main",
+  "leader_login": "yusuke8696",
+  "leader_id": 305051078,
+  "template_bindings": {},
+  "scope": 1,
+  "id": "95409b81-f908-4c40-ad34-1cb096794593"
+}
