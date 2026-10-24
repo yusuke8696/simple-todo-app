@@ -1,0 +1,18 @@
+{
+  "id": "904ffde1-38ed-5d7a-a651-4f68bcf7bbee",
+  "project_id": "95409b81-f908-4c40-ad34-1cb096794593",
+  "scope": 1,
+  "kind": "delivery",
+  "title": "完了報告",
+  "role": "general",
+  "state": "planned",
+  "depends_on": [
+    "a051c78f-2fe0-59d8-96e1-f10784cccb1c"
+  ],
+  "artifacts": [],
+  "pr": null,
+  "issue": null,
+  "template_id": "delivery",
+  "owner": null,
+  "run_id": null
+}
