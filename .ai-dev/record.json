@@ -1,0 +1,18 @@
+{
+  "id": "65025c96-8918-5612-8bf3-7b962f79f2b1",
+  "project_id": "95409b81-f908-4c40-ad34-1cb096794593",
+  "scope": 1,
+  "kind": "architecture",
+  "title": "構成設計",
+  "role": "design",
+  "state": "planned",
+  "depends_on": [
+    "90f3f9a2-6042-5da8-9034-45da9a18781d"
+  ],
+  "artifacts": [],
+  "pr": null,
+  "issue": null,
+  "template_id": "architecture",
+  "owner": null,
+  "run_id": null
+}
