@@ -1,0 +1,16 @@
+{
+  "id": "90f3f9a2-6042-5da8-9034-45da9a18781d",
+  "project_id": "95409b81-f908-4c40-ad34-1cb096794593",
+  "scope": 1,
+  "kind": "requirements",
+  "title": "要件定義",
+  "role": "general",
+  "state": "ready",
+  "depends_on": [],
+  "artifacts": [],
+  "pr": null,
+  "issue": null,
+  "template_id": "requirements",
+  "owner": null,
+  "run_id": null
+}
