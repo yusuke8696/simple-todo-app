@@ -8,5 +8,51 @@
   "leader_id": 305051078,
   "template_bindings": {},
   "scope": 1,
-  "id": "95409b81-f908-4c40-ad34-1cb096794593"
+  "id": "95409b81-f908-4c40-ad34-1cb096794593",
+  "template_preparation": {
+    "ready": false,
+    "pr": {
+      "number": 1,
+      "url": "https://github.com/yusuke8696/simple-todo-app/pull/1",
+      "sha": "249a884bf6d39fc0f6a651238d0edcbe23b61fd6"
+    },
+    "lock_hash": "59fbab9d70190fb3aac4dfe6a6936c7111a65584fd6d6dd761a4b571df27b2f2",
+    "bindings": {
+      "requirements": "requirements",
+      "architecture": "architecture",
+      "design": "design",
+      "verification": "verification",
+      "delivery": "delivery"
+    },
+    "task_bindings": {
+      "requirements": "requirements",
+      "architecture": "architecture",
+      "design": "design",
+      "verification": "verification",
+      "delivery": "delivery"
+    },
+    "templates": {
+      "requirements": {
+        "path": ".ai-dev/templates/95409b81-f908-4c40-ad34-1cb096794593/requirements/73892517eb0eb3e4",
+        "hash": "73892517eb0eb3e4a1218e07643d05bfaae63cc2f2e7b4c036cb76b801745b0e"
+      },
+      "architecture": {
+        "path": ".ai-dev/templates/95409b81-f908-4c40-ad34-1cb096794593/architecture/9e1f6e7cccf7dd53",
+        "hash": "9e1f6e7cccf7dd537b5e8686b993deb1ce457e8d7626623c5cf3bfc6c24b390c"
+      },
+      "design": {
+        "path": ".ai-dev/templates/95409b81-f908-4c40-ad34-1cb096794593/design/854667775045899c",
+        "hash": "854667775045899c08479bc2de84de1c7ca8938b5e5851c2d7276468077c122a"
+      },
+      "verification": {
+        "path": ".ai-dev/templates/95409b81-f908-4c40-ad34-1cb096794593/verification/f38743f67be5b212",
+        "hash": "f38743f67be5b21281bedbd58a1c26715f46b62a984ec476b2409a5f372737c1"
+      },
+      "delivery": {
+        "path": ".ai-dev/templates/95409b81-f908-4c40-ad34-1cb096794593/delivery/d1719e45ae5953c3",
+        "hash": "d1719e45ae5953c33dde6762da25268c5ff6bf503bbf715de274d3081330fe25"
+      }
+    },
+    "leader_id": 305051078
+  }
 }
