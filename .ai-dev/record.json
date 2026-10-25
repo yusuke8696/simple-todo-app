@@ -5,7 +5,7 @@
   "kind": "design",
   "title": "詳細設計",
   "role": "design",
-  "state": "failed",
+  "state": "running",
   "depends_on": [
     "65025c96-8918-5612-8bf3-7b962f79f2b1"
   ],
@@ -20,7 +20,7 @@
     "execution_id": "9e878aef-cc5f-49cd-810a-ba79a944263a",
     "task_id": "be8cc4ed-22ba-52a4-8e76-1a295d2d81f3"
   },
-  "run_id": "8ac95b69-198f-49fb-8c9b-22aa8fd6ce2f",
+  "run_id": "f0fc1872-0245-4b22-9f43-874453e8dd2d",
   "branch": "ai-work/be8cc4ed-22ba-52a4-8e76-1a295d2d81f3",
-  "error": "Expecting ',' delimiter: line 1 column 7644 (char 7643)"
+  "error": null
 }
