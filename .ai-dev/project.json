@@ -12,11 +12,11 @@
   "template_preparation": {
     "ready": false,
     "pr": {
-      "number": 1,
-      "url": "https://github.com/yusuke8696/simple-todo-app/pull/1",
-      "sha": "249a884bf6d39fc0f6a651238d0edcbe23b61fd6"
+      "number": 2,
+      "url": "https://github.com/yusuke8696/simple-todo-app/pull/2",
+      "sha": "94f3be1e944609e3bacb4dd8b047faa611d799d1"
     },
-    "lock_hash": "59fbab9d70190fb3aac4dfe6a6936c7111a65584fd6d6dd761a4b571df27b2f2",
+    "lock_hash": "eb2ff541902219ba73dcfa1c41cccfbe60f83728f9f45b65d2524acb8f369343",
     "bindings": {
       "requirements": "requirements",
       "architecture": "architecture",
@@ -53,7 +53,14 @@
         "hash": "d1719e45ae5953c33dde6762da25268c5ff6bf503bbf715de274d3081330fe25"
       }
     },
-    "leader_id": 305051078
+    "leader_id": 305051078,
+    "license_policy_hash": "6b3f17a3eccbd4865d6fc42a1a946d9a294c71a7117a661aa6a7a210107daab7",
+    "license_files": {
+      ".ai-dev/oss/95409b81-f908-4c40-ad34-1cb096794593/policy.json": "0e9027dfc957e1971c5dac26d29b7d298c8499226f74447fbbc2dc3cf0525133",
+      ".ai-dev/oss/95409b81-f908-4c40-ad34-1cb096794593/skills/oss-license-policy/SKILL.md": "6888d0e4ee587d19e9c6e05c8ab02b2daedfc20f7725a5fbc8f7e1cb5cee3f48",
+      ".ai-dev/oss/95409b81-f908-4c40-ad34-1cb096794593/check_licenses.py": "f56d6a552592946e49f8a194014e116a94a3dcb1e5755db62b6a342a61443775",
+      ".github/workflows/aiworkspace-oss-95409b81-f908-4c40-ad34-1cb096794593.yml": "61fffde7bfe815072aa0b1d0707d15d48469dd45845f86ad2c77aeae555fc38b"
+    }
   },
   "license_policy": {
     "schema_version": 1,
