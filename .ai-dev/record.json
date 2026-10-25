@@ -5,12 +5,17 @@
   "kind": "requirements",
   "title": "要件定義",
   "role": "general",
-  "state": "waiting_approval",
+  "state": "succeeded",
   "depends_on": [],
   "artifacts": [
     "ffb9376e-e4d5-43a1-a6b8-b36972d8a078"
   ],
-  "pr": null,
+  "pr": {
+    "number": 3,
+    "url": "https://github.com/yusuke8696/simple-todo-app/pull/3",
+    "sha": "b6eb3b2fbcb43d612bda2de92dd00ab39b5415d5",
+    "artifact_hash": "d02072c86bd2683019eae2bb0fc856d8ad6fc5910dfe7f53f1b6e4b3ad4c9e7a"
+  },
   "issue": null,
   "template_id": "requirements",
   "owner": {
@@ -23,5 +28,8 @@
   "run_id": "91a2840e-0d1e-4bb5-9574-bae7cec95d20",
   "branch": "ai-work/90f3f9a2-6042-5da8-9034-45da9a18781d",
   "error": null,
-  "last_answer_id": "e7f64f65-96b0-4006-b663-dadc4f6c82d7"
+  "last_answer_id": "e7f64f65-96b0-4006-b663-dadc4f6c82d7",
+  "approved_artifact": "ffb9376e-e4d5-43a1-a6b8-b36972d8a078",
+  "approved_at": "2026-10-25T13:52:17.562546+00:00",
+  "human_verification": ""
 }
