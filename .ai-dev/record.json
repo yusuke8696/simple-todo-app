@@ -5,7 +5,7 @@
   "kind": "design",
   "title": "詳細設計",
   "role": "design",
-  "state": "failed",
+  "state": "running",
   "depends_on": [
     "65025c96-8918-5612-8bf3-7b962f79f2b1"
   ],
@@ -20,7 +20,7 @@
     "execution_id": "9e878aef-cc5f-49cd-810a-ba79a944263a",
     "task_id": "be8cc4ed-22ba-52a4-8e76-1a295d2d81f3"
   },
-  "run_id": "fd6e8fdd-7a33-4c17-8ab7-17e960193a0d",
+  "run_id": "03a0a744-efe4-49fc-8c12-d74c64d40729",
   "branch": "ai-work/be8cc4ed-22ba-52a4-8e76-1a295d2d81f3",
-  "error": "接続または実行に失敗しました。設定とサーバー状態を確認してください。"
+  "error": null
 }
