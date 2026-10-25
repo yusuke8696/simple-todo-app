@@ -33,5 +33,6 @@
     "pinned_commit": "81bbe5ed8a212a8430176e37c6b916b0bb2d7f2b"
   },
   "license_policy_hash": "6b3f17a3eccbd4865d6fc42a1a946d9a294c71a7117a661aa6a7a210107daab7",
-  "id": "9c7fa49b-068a-4626-89e5-f41504cdee88"
+  "id": "9c7fa49b-068a-4626-89e5-f41504cdee88",
+  "commit_sha": "85c67552592dd0330c60c573f57ff9e30b6765ac"
 }
