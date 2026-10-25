@@ -12,7 +12,12 @@
   "artifacts": [
     "9c7fa49b-068a-4626-89e5-f41504cdee88"
   ],
-  "pr": null,
+  "pr": {
+    "number": 4,
+    "url": "https://github.com/yusuke8696/simple-todo-app/pull/4",
+    "sha": "85c67552592dd0330c60c573f57ff9e30b6765ac",
+    "artifact_hash": "5849a054e0a79e990cacd71269abec3dd4c2a7b8206fe14409c431ce20fb2208"
+  },
   "issue": null,
   "template_id": "architecture",
   "owner": {
