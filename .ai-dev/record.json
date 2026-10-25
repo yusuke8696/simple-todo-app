@@ -5,9 +5,11 @@
   "kind": "requirements",
   "title": "要件定義",
   "role": "general",
-  "state": "running",
+  "state": "waiting_approval",
   "depends_on": [],
-  "artifacts": [],
+  "artifacts": [
+    "ffb9376e-e4d5-43a1-a6b8-b36972d8a078"
+  ],
   "pr": null,
   "issue": null,
   "template_id": "requirements",
