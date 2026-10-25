@@ -5,7 +5,7 @@
   "kind": "architecture",
   "title": "構成設計",
   "role": "design",
-  "state": "planned",
+  "state": "ready",
   "depends_on": [
     "90f3f9a2-6042-5da8-9034-45da9a18781d"
   ],
