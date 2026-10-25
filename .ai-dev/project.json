@@ -54,5 +54,58 @@
       }
     },
     "leader_id": 305051078
+  },
+  "license_policy": {
+    "schema_version": 1,
+    "licenses": [
+      {
+        "id": "MIT",
+        "name": "MIT License",
+        "enabled": true,
+        "custom": false
+      },
+      {
+        "id": "Apache-2.0",
+        "name": "Apache License 2.0",
+        "enabled": true,
+        "custom": false
+      },
+      {
+        "id": "BSD-2-Clause",
+        "name": "BSD 2-Clause",
+        "enabled": true,
+        "custom": false
+      },
+      {
+        "id": "BSD-3-Clause",
+        "name": "BSD 3-Clause",
+        "enabled": true,
+        "custom": false
+      },
+      {
+        "id": "ISC",
+        "name": "ISC License",
+        "enabled": true,
+        "custom": false
+      },
+      {
+        "id": "0BSD",
+        "name": "BSD Zero Clause",
+        "enabled": true,
+        "custom": false
+      },
+      {
+        "id": "Zlib",
+        "name": "zlib License",
+        "enabled": true,
+        "custom": false
+      },
+      {
+        "id": "BSL-1.0",
+        "name": "Boost Software License 1.0",
+        "enabled": true,
+        "custom": false
+      }
+    ]
   }
 }
