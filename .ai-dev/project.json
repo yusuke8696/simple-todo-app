@@ -10,7 +10,7 @@
   "scope": 1,
   "id": "95409b81-f908-4c40-ad34-1cb096794593",
   "template_preparation": {
-    "ready": false,
+    "ready": true,
     "pr": {
       "number": 2,
       "url": "https://github.com/yusuke8696/simple-todo-app/pull/2",
@@ -18,49 +18,52 @@
     },
     "lock_hash": "eb2ff541902219ba73dcfa1c41cccfbe60f83728f9f45b65d2524acb8f369343",
     "bindings": {
-      "requirements": "requirements",
       "architecture": "architecture",
+      "delivery": "delivery",
       "design": "design",
-      "verification": "verification",
-      "delivery": "delivery"
+      "requirements": "requirements",
+      "verification": "verification"
     },
     "task_bindings": {
-      "requirements": "requirements",
       "architecture": "architecture",
+      "delivery": "delivery",
       "design": "design",
-      "verification": "verification",
-      "delivery": "delivery"
+      "requirements": "requirements",
+      "verification": "verification"
     },
     "templates": {
-      "requirements": {
-        "path": ".ai-dev/templates/95409b81-f908-4c40-ad34-1cb096794593/requirements/73892517eb0eb3e4",
-        "hash": "73892517eb0eb3e4a1218e07643d05bfaae63cc2f2e7b4c036cb76b801745b0e"
-      },
       "architecture": {
-        "path": ".ai-dev/templates/95409b81-f908-4c40-ad34-1cb096794593/architecture/9e1f6e7cccf7dd53",
-        "hash": "9e1f6e7cccf7dd537b5e8686b993deb1ce457e8d7626623c5cf3bfc6c24b390c"
-      },
-      "design": {
-        "path": ".ai-dev/templates/95409b81-f908-4c40-ad34-1cb096794593/design/854667775045899c",
-        "hash": "854667775045899c08479bc2de84de1c7ca8938b5e5851c2d7276468077c122a"
-      },
-      "verification": {
-        "path": ".ai-dev/templates/95409b81-f908-4c40-ad34-1cb096794593/verification/f38743f67be5b212",
-        "hash": "f38743f67be5b21281bedbd58a1c26715f46b62a984ec476b2409a5f372737c1"
+        "hash": "9e1f6e7cccf7dd537b5e8686b993deb1ce457e8d7626623c5cf3bfc6c24b390c",
+        "path": ".ai-dev/templates/95409b81-f908-4c40-ad34-1cb096794593/architecture/9e1f6e7cccf7dd53"
       },
       "delivery": {
-        "path": ".ai-dev/templates/95409b81-f908-4c40-ad34-1cb096794593/delivery/d1719e45ae5953c3",
-        "hash": "d1719e45ae5953c33dde6762da25268c5ff6bf503bbf715de274d3081330fe25"
+        "hash": "d1719e45ae5953c33dde6762da25268c5ff6bf503bbf715de274d3081330fe25",
+        "path": ".ai-dev/templates/95409b81-f908-4c40-ad34-1cb096794593/delivery/d1719e45ae5953c3"
+      },
+      "design": {
+        "hash": "854667775045899c08479bc2de84de1c7ca8938b5e5851c2d7276468077c122a",
+        "path": ".ai-dev/templates/95409b81-f908-4c40-ad34-1cb096794593/design/854667775045899c"
+      },
+      "requirements": {
+        "hash": "73892517eb0eb3e4a1218e07643d05bfaae63cc2f2e7b4c036cb76b801745b0e",
+        "path": ".ai-dev/templates/95409b81-f908-4c40-ad34-1cb096794593/requirements/73892517eb0eb3e4"
+      },
+      "verification": {
+        "hash": "f38743f67be5b21281bedbd58a1c26715f46b62a984ec476b2409a5f372737c1",
+        "path": ".ai-dev/templates/95409b81-f908-4c40-ad34-1cb096794593/verification/f38743f67be5b212"
       }
     },
     "leader_id": 305051078,
     "license_policy_hash": "6b3f17a3eccbd4865d6fc42a1a946d9a294c71a7117a661aa6a7a210107daab7",
     "license_files": {
+      ".ai-dev/oss/95409b81-f908-4c40-ad34-1cb096794593/check_licenses.py": "f56d6a552592946e49f8a194014e116a94a3dcb1e5755db62b6a342a61443775",
       ".ai-dev/oss/95409b81-f908-4c40-ad34-1cb096794593/policy.json": "0e9027dfc957e1971c5dac26d29b7d298c8499226f74447fbbc2dc3cf0525133",
       ".ai-dev/oss/95409b81-f908-4c40-ad34-1cb096794593/skills/oss-license-policy/SKILL.md": "6888d0e4ee587d19e9c6e05c8ab02b2daedfc20f7725a5fbc8f7e1cb5cee3f48",
-      ".ai-dev/oss/95409b81-f908-4c40-ad34-1cb096794593/check_licenses.py": "f56d6a552592946e49f8a194014e116a94a3dcb1e5755db62b6a342a61443775",
       ".github/workflows/aiworkspace-oss-95409b81-f908-4c40-ad34-1cb096794593.yml": "61fffde7bfe815072aa0b1d0707d15d48469dd45845f86ad2c77aeae555fc38b"
-    }
+    },
+    "commit": "81bbe5ed8a212a8430176e37c6b916b0bb2d7f2b",
+    "approval_kind": "merge",
+    "review_id": null
   },
   "license_policy": {
     "schema_version": 1,
