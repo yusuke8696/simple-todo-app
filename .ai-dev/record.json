@@ -5,7 +5,7 @@
   "kind": "design",
   "title": "詳細設計",
   "role": "design",
-  "state": "running",
+  "state": "failed",
   "depends_on": [
     "65025c96-8918-5612-8bf3-7b962f79f2b1"
   ],
@@ -22,5 +22,5 @@
   },
   "run_id": "0838ca06-3258-4343-b2b4-416ad21c6e17",
   "branch": "ai-work/be8cc4ed-22ba-52a4-8e76-1a295d2d81f3",
-  "error": null
+  "error": "Invalid control character at: line 1 column 1736 (char 1735)"
 }
