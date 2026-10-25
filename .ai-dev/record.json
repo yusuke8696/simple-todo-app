@@ -5,7 +5,7 @@
   "kind": "architecture",
   "title": "構成設計",
   "role": "design",
-  "state": "ready",
+  "state": "running",
   "depends_on": [
     "90f3f9a2-6042-5da8-9034-45da9a18781d"
   ],
@@ -13,6 +13,14 @@
   "pr": null,
   "issue": null,
   "template_id": "architecture",
-  "owner": null,
-  "run_id": null
+  "owner": {
+    "user_id": 305051078,
+    "login": "yusuke8696",
+    "device_id": "682eccee-54df-4a83-8e5b-2fba2e9fea73",
+    "execution_id": "5cd19d92-6c19-4177-b33f-eb396ac6e8b0",
+    "task_id": "65025c96-8918-5612-8bf3-7b962f79f2b1"
+  },
+  "run_id": "99d1ae4c-3a1d-4ac1-9331-c5521c0d34bd",
+  "branch": "ai-work/65025c96-8918-5612-8bf3-7b962f79f2b1",
+  "error": null
 }
