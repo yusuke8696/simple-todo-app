@@ -1,0 +1,26 @@
+name: AIWorkspace OSS 95409b81
+on:
+  pull_request:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  licenses:
+    name: OSS license allowlist (95409b81)
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Install pinned OSV-Scanner
+        shell: bash
+        run: |
+          curl --fail --location --retry 3 --output "$RUNNER_TEMP/osv-scanner" https://github.com/google/osv-scanner/releases/download/v2.6.0/osv-scanner_linux_amd64
+          echo "ca69b3d3cd08f889a49dc0a383122f71cc528b83803671df5fd874d97485b108  $RUNNER_TEMP/osv-scanner" | sha256sum --check -
+          chmod +x "$RUNNER_TEMP/osv-scanner"
+      - name: Enforce allowed OSS licenses
+        shell: bash
+        run: python3 .ai-dev/oss/95409b81-f908-4c40-ad34-1cb096794593/check_licenses.py --policy .ai-dev/oss/95409b81-f908-4c40-ad34-1cb096794593/policy.json --scanner "$RUNNER_TEMP/osv-scanner" --root . --output "$RUNNER_TEMP/aiworkspace-licenses-95409b81.json"
