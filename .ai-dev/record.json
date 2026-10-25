@@ -5,7 +5,7 @@
   "kind": "design",
   "title": "詳細設計",
   "role": "design",
-  "state": "running",
+  "state": "failed",
   "depends_on": [
     "65025c96-8918-5612-8bf3-7b962f79f2b1"
   ],
@@ -22,5 +22,5 @@
   },
   "run_id": "f0fc1872-0245-4b22-9f43-874453e8dd2d",
   "branch": "ai-work/be8cc4ed-22ba-52a4-8e76-1a295d2d81f3",
-  "error": null
+  "error": "Expecting ',' delimiter: line 1 column 4421 (char 4420)"
 }
