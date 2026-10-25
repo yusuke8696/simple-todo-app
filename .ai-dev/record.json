@@ -5,7 +5,7 @@
   "kind": "architecture",
   "title": "構成設計",
   "role": "design",
-  "state": "waiting_approval",
+  "state": "succeeded",
   "depends_on": [
     "90f3f9a2-6042-5da8-9034-45da9a18781d"
   ],
@@ -29,5 +29,8 @@
   },
   "run_id": "99d1ae4c-3a1d-4ac1-9331-c5521c0d34bd",
   "branch": "ai-work/65025c96-8918-5612-8bf3-7b962f79f2b1",
-  "error": null
+  "error": null,
+  "approved_artifact": "9c7fa49b-068a-4626-89e5-f41504cdee88",
+  "approved_at": "2026-10-25T13:56:28.151574+00:00",
+  "human_verification": ""
 }
