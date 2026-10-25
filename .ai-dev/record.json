@@ -5,7 +5,7 @@
   "kind": "requirements",
   "title": "要件定義",
   "role": "general",
-  "state": "waiting_input",
+  "state": "running",
   "depends_on": [],
   "artifacts": [],
   "pr": null,
@@ -18,7 +18,8 @@
     "execution_id": "0b72ab61-b1b7-49a1-8527-35af949c32fd",
     "task_id": "90f3f9a2-6042-5da8-9034-45da9a18781d"
   },
-  "run_id": "026e83fd-fb57-4449-b838-c64ab5e8f7b8",
+  "run_id": "91a2840e-0d1e-4bb5-9574-bae7cec95d20",
   "branch": "ai-work/90f3f9a2-6042-5da8-9034-45da9a18781d",
-  "error": null
+  "error": null,
+  "last_answer_id": "e7f64f65-96b0-4006-b663-dadc4f6c82d7"
 }
