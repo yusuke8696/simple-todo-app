@@ -5,7 +5,7 @@
   "kind": "requirements",
   "title": "要件定義",
   "role": "general",
-  "state": "running",
+  "state": "waiting_input",
   "depends_on": [],
   "artifacts": [],
   "pr": null,
