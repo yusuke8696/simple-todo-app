@@ -5,11 +5,13 @@
   "kind": "architecture",
   "title": "構成設計",
   "role": "design",
-  "state": "running",
+  "state": "waiting_approval",
   "depends_on": [
     "90f3f9a2-6042-5da8-9034-45da9a18781d"
   ],
-  "artifacts": [],
+  "artifacts": [
+    "9c7fa49b-068a-4626-89e5-f41504cdee88"
+  ],
   "pr": null,
   "issue": null,
   "template_id": "architecture",
